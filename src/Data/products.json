@@ -1,0 +1,49 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "Đai lưng",
+        "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/img%20(4).webp",
+        "price": 100000,
+        "descripstion": "Đai lưng thời trang cho nam và nữ. Sản phẩm này làm từ chất liệu da tổng hợp cao cấp, chất lượng đảm bảo. Thiết kế đơn giản nhưng vô cùng thời trang, phù hợp cho mọi dịp và trang phục. Dễ dàng điều chỉnh độ rộng để phù hợp với bạn. Đai lưng là một phụ kiện không thể thiếu trong tủ đồ của bạn."
+    },
+    {
+        "product_id": 2,
+        "product_name": "Set đồ đi chơi",
+        "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/shoes%20(3).webp",
+        "price": 550000,
+        "descripstion": "Áo thun đơn giản và thoải mái, phù hợp cho cả nam và nữ. Sản phẩm này được làm từ chất liệu cotton mềm mại, giúp bạn cảm thấy thoải mái suốt cả ngày. Thiết kế cổ tròn và tay ngắn, phù hợp cho nhiều hoàn cảnh, từ hàng ngày đến đi dạo và thậm chí là thể thao nhẹ."
+
+    },
+    {
+        "product_id": 3,
+        "product_name": "Giày Nkie hồng",
+        "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/img%20(23).webp",
+        "price": 380000,
+        "descripstion": "Quần jean dáng đẹp và thoải mái, thích hợp cho mọi dịp. Sản phẩm này được làm từ chất liệu denim chất lượng cao, đảm bảo sự thoải mái và bền đẹp. Thiết kế dáng bó sát vừa vặn với cơ thể, làm tôn lên vẻ đẹp của bạn. Quần jean là một lựa chọn hoàn hảo cho mọi tình huống, từ đi làm đến dạo chơi cuối tuần."
+
+    },
+    {
+        "product_id": 4,
+        "product_name": "Giày Nike",
+        "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/img%20(17).webp",
+        "price": 450000,
+        "descripstion": "Nhẫn kim cương giả mạo với thiết kế sang trọng. Sản phẩm này làm từ hợp kim chất lượng cao, với đá kim cương giả mạo lấp lánh. Nhẫn có thiết kế độc đáo và tinh xảo, tạo điểm nhấn cho bất kỳ bộ trang sức nào. Sử dụng nhẫn này để tạo phong cách riêng và thêm sự lấp lánh vào cuộc sống của bạn."
+
+    },
+    {
+        "product_id": 5,
+        "product_name": "Quần zin",
+        "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/img%20(30).webp",
+        "price": 350000,
+        "descripstion": "Đai lưng thời trang cho nam và nữ. Sản phẩm này làm từ chất liệu da tổng hợp cao cấp, chất lượng đảm bảo. Thiết kế đơn giản nhưng vô cùng thời trang, phù hợp cho mọi dịp và trang phục. Dễ dàng điều chỉnh độ rộng để phù hợp với bạn. Đai lưng là một phụ kiện không thể thiếu trong tủ đồ của bạn."
+
+    },
+    {
+        "product_id": 6,
+        "product_name": "Mũ da",
+        "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/belt.webp",
+        "price": 50000,
+        "descripstion": "Nhẫn vàng 18K, đẹp và lịch lãm. Sản phẩm này làm từ vàng 18K cao cấp, có thiết kế tinh tế và đẳng cấp. Nhẫn vàng là một món quà tuyệt vời cho người thân yêu hoặc một món trang sức đẹp để tự thưởng cho bản thân. Đây là một biểu tượng của sự sang trọng và lịch lãm."
+
+    }
+]

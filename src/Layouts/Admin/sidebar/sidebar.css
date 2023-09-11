@@ -1,0 +1,51 @@
+.sidebar-admin {
+  width: 230px;
+  min-height: 100vh;
+  color: #fff;
+  padding: 5px;
+}
+
+.router-item {
+  padding: 10px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  cursor: pointer;
+  /* transition: all.3s ease; */
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  margin: 10px 0;
+  padding: 10px 20px;
+  /* padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px; */
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+  transition: all.3s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.router-item:hover {
+  color: lightskyblue;
+  background-color: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 14px 26px -12px rgba(0, 0, 0, 0.42),
+    0 4px 23px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+}
+
+.router-item:hover.router-item-icon {
+  color: #fff;
+}
+
+.router-item-icon {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.router-item-title {
+  font-size: 14px;
+  font-weight: 600;
+}

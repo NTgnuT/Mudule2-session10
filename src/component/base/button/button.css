@@ -1,0 +1,36 @@
+.t-button {
+  height: 36px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  padding: 0 16px;
+  min-width: 80px;
+  cursor: pointer;
+}
+
+/* .t-button:hover {
+  background-color: rgb(198, 233, 255);
+} */
+
+.t-button-primary {
+  background-color: rgb(203, 235, 255) !important;
+}
+
+.t-button-primary:hover {
+  background-color: lightskyblue !important;
+}
+
+.t-button-primary:focus {
+  background-color: rgb(36, 169, 252) !important;
+}
+
+.t-button-danger {
+  background-color: rgb(232, 185, 108) !important;
+}
+
+.t-button-danger:hover {
+  background-color: rgb(211, 43, 226) !important;
+}
+
+.t-button-danger:focus {
+  background-color: red !important;
+}
